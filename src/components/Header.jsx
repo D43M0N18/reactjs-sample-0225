@@ -1,7 +1,7 @@
 // src/components/Header.jsx
 import React from 'react';
 import { motion } from 'framer-motion';
-import { MagnifyingGlassIcon, PlusIcon } from '@heroicons/react/24/outline';
+import { MagnifyingGlassIcon } from '@heroicons/react/24/outline';
 
 const Header = ({ onAddTask, onProfile }) => {
   return (
