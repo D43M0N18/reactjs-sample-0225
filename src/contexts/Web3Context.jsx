@@ -1,5 +1,5 @@
 // src/contexts/Web3Context.jsx
-import { createContext, useContext, useState, useEffect } from 'react';
+import { createContext, useContext, useState } from 'react';
 import Web3 from 'web3';
 
 const Web3Context = createContext();
